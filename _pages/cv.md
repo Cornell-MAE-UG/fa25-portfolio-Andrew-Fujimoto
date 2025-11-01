@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Andrew Fujimoto - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
@@ -8,30 +8,31 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [agf62@cornell.edu](mailto:agf62@cornell.edu) | | | **Phone:** 262 443 6966
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+United States Space Force officer select, working towards comissioning.
 
 ---
 
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  GPA: 3.83/4.0 | Graduation: Month, Year
 
-- **[High School Name]**  
+- **[Oconomowoc High School]**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: [June, 2023]
+  Class Rank: 3 of 384
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
+- **Software:** Autodesk Fusion 360, SolidWorks
 - **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Tools:** 3D Printing
 
 ---
 

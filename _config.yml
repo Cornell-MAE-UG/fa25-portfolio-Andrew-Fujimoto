@@ -8,12 +8,12 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Your Name
+title                    : Andrew Fujimoto
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : Your Name
-description              : Your Name - Projects and CV 
-baseurl                  : "" # Set this to your repo name 
+name                     : Andrew Fujimoto
+description              : Andrew Fujimoto - Projects and CV 
+baseurl                  : "" https://github.com/Cornell-MAE-UG/fa25-portfolio-Andrew-Fujimoto.git
 
 # Theme and Style
 theme: jekyll-theme-minimal

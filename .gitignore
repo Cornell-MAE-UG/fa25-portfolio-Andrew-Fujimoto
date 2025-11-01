@@ -32,3 +32,5 @@ Gemfile.lock
 
 # VS Code specific settings
 .vscode/
+_site/
+.jekyll-cache/
