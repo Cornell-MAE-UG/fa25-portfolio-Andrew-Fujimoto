@@ -13,8 +13,8 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Andrew Fujimoto
 description              : Andrew Fujimoto - Projects and CV 
-baseurl                  : ""
-url                      : ""
+baseurl                  : "/fa25-portfolio-Andrew-Fujimoto"
+url                      : "/fa25-portfolio-Andrew-Fujimoto"
 
 # Theme and Style
 theme: jekyll-theme-minimal
