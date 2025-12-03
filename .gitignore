@@ -34,3 +34,6 @@ Gemfile.lock
 .vscode/
 _site/
 .jekyll-cache/
+
+
+_config.development.yml
