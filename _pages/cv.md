@@ -25,8 +25,9 @@ Gain professional experience in aerospace defense to prepare for a career in spa
 
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.83/4.0 | Graduation: May, 2027
-  Relevant coursework:  AFROTC Leadership 1, 2, and 3, Electricity and Magnetism, Waves and Oscillations, Thermodynamics, Engineering Design, Statics and Mechanics of Engineering Materials, Fluid Mechanics, System Dynamics, Heat Transfer (Spring 2026), Mechatronics (Spring 2026), Radar and Remote Sensing (Spring 2026)  
+  GPA: 3.83/4.0 | Graduation: May, 2027  
+ 
+  __Relevant coursework:__  AFROTC Leadership 1, 2, and 3, Electricity and Magnetism, Waves and Oscillations, Thermodynamics, Engineering Design, Statics and Mechanics of Engineering Materials, Fluid Mechanics, System Dynamics, Heat Transfer (Spring 2026), Mechatronics (Spring 2026), Radar and Remote Sensing (Spring 2026)  
 
 
 
