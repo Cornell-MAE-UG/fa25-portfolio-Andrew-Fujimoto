@@ -16,6 +16,7 @@ description              : Andrew Fujimoto - Projects and CV
 baseurl                  : "/fa25-portfolio-Andrew-Fujimoto"
 url                      : "https://andrew-fujimoto.github.io"
 
+
 # Theme and Style
 theme: jekyll-theme-minimal
 color_scheme: aqua # light/default, dark, or aqua
