@@ -1,0 +1,9 @@
+---
+layout: project
+title: Heat Sink Analysis
+description: Using heat transfer fundamentals to analyze the performance of a heat sink. 
+image: "/assets/images/Heat Sink.jpg"
+---
+
+<p> In MAE 3240, we were asked to break down the performance of a simple heat sink using the heat equation. Analyzing the problem from several different angles I first assessed the performance of individual fins before applying my results to the broader array. The end result showed how impactful the heat sink was, taking the temperature of the heater from 127 degrees Celcius all the way down to 38 degrees! 
+ </p> 
