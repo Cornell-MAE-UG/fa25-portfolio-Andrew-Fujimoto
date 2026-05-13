@@ -2,7 +2,7 @@
 layout: project
 title: Mechatronics robot competition
 description: Robot competition capstone
-technologies: Arduino coding
+technologies: [Arduino coding]
 image: "/assets/images/mechatronicsrobot.png
 ---
 
